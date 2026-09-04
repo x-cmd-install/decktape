@@ -7,7 +7,7 @@ about:
   head: 0ab408f
   archived: false
   latestVersion: v3.16.1
-  collectedAt: 2026-09-04T19:32:39Z
+  collectedAt: 2026-09-04T20:59:07Z
 timeline:
   created: 2015-05-07
   lastCommit: 2026-07-13
@@ -83,6 +83,59 @@ total:
   openIssue: 41
   commit: 578
 ---
+path: /home/runner/.x-repo/github.com/astefanutti/decktape
+collectedAt: 2026-09-04T20:59:09Z
+loc:
+  Css:
+    code: 157501
+    comments: 284
+    blanks: 44369
+    files: 1
+  JavaScript:
+    code: 2001
+    comments: 313
+    blanks: 394
+    files: 22
+  Json:
+    code: 1943
+    comments: 0
+    blanks: 0
+    files: 3
+  Html:
+    code: 640
+    comments: 0
+    blanks: 6
+    files: 2
+  AsciiDoc:
+    code: 279
+    comments: 4
+    blanks: 87
+    files: 1
+  Yaml:
+    code: 127
+    comments: 0
+    blanks: 12
+    files: 3
+  TypeScript:
+    code: 59
+    comments: 18
+    blanks: 8
+    files: 3
+  Dockerfile:
+    code: 40
+    comments: 12
+    blanks: 17
+    files: 1
+  Svg:
+    code: 14
+    comments: 0
+    blanks: 0
+    files: 1
+total:
+  code: 162646
+  comments: 632
+  blanks: 44898
+  files: 37
 ---
 date: "2026-08-24"
 repo:
