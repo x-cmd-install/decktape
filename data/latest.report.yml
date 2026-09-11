@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.16.1"
   latestRelease: "v3.16.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T04:37:48Z
+  collectedAt: 2026-09-11T20:24:41Z
 timeline:
   created: 2015-05-07
   lastCommit: 2026-07-13
@@ -86,7 +86,7 @@ total:
   commit: 578
 ---
 path: /home/runner/.x-repo/github.com/astefanutti/decktape
-collectedAt: 2026-09-11T04:37:51Z
+collectedAt: 2026-09-11T20:24:43Z
 loc:
   Css:
     code: 157501
