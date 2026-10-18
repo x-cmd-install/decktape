@@ -14,7 +14,7 @@ x install decktape
 
 ## Code insight
 
-Total: **161,993** lines of code across **32** files in the top 5 languages.
+Total: **162,040** lines of code across **32** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -22,7 +22,7 @@ Total: **161,993** lines of code across **32** files in the top 5 languages.
 | JavaScript | 2,011 | 315 | 395 | 22 |
 | Json | 1,103 | 0 | 0 | 3 |
 | Html | 698 | 7 | 6 | 5 |
-| AsciiDoc | 288 | 4 | 91 | 1 |
+| AsciiDoc | 297 | 4 | 95 | 1 |
 
 ## OpenSSF Scorecard
 
@@ -42,26 +42,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.16.1` (2026-04-20)
-- **Last commit**: 2026-10-16
+- **Last commit**: 2026-10-17
 
 ## Popularity
 
-- **Stars**: 2,432 · **Forks**: 194 · **Open issues**: 243 · **Contributors**: 34
+- **Stars**: 2,432 · **Forks**: 195 · **Open issues**: 243 · **Contributors**: 34
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 123 · **Open PRs**: 11 · **Closed issues**: 203 · **Open issues**: 40 · **Commits**: 582
+- **Releases**: 36 · **Merged PRs**: 125 · **Open PRs**: 12 · **Closed issues**: 203 · **Open issues**: 40 · **Commits**: 584
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 0 | 4 | 2 | 0 | 0 | 4 |
-| last60d | 2026-08-18 | 0 | 4 | 2 | 0 | 0 | 4 |
-| 90d | 2026-07-19 | 0 | 4 | 2 | 0 | 0 | 4 |
-| last180d | 2026-04-20 | 1 | 7 | 7 | 0 | 1 | 7 |
-| 360d | 2025-10-22 | 2 | 16 | 7 | 3 | 1 | 25 |
-| last720d | 2024-10-27 | 3 | 33 | 8 | 7 | 10 | 47 |
+| 30d | 2026-09-18 | 0 | 6 | 3 | 0 | 0 | 6 |
+| last60d | 2026-08-19 | 0 | 6 | 3 | 0 | 0 | 6 |
+| 90d | 2026-07-20 | 0 | 6 | 3 | 0 | 0 | 6 |
+| last180d | 2026-04-21 | 0 | 9 | 8 | 0 | 1 | 8 |
+| 360d | 2025-10-23 | 2 | 18 | 8 | 3 | 1 | 27 |
+| last720d | 2024-10-28 | 3 | 35 | 9 | 7 | 10 | 49 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for decktape lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T04:24:29Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T04:26:44Z._
