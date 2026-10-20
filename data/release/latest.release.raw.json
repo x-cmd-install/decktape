@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/astefanutti/decktape/releases/311294839",
-  "assets_url": "https://api.github.com/repos/astefanutti/decktape/releases/311294839/assets",
-  "upload_url": "https://uploads.github.com/repos/astefanutti/decktape/releases/311294839/assets{?name,label}",
-  "html_url": "https://github.com/astefanutti/decktape/releases/tag/v3.16.1",
-  "id": 311294839,
+  "url": "https://api.github.com/repos/astefanutti/decktape/releases/417583405",
+  "assets_url": "https://api.github.com/repos/astefanutti/decktape/releases/417583405/assets",
+  "upload_url": "https://uploads.github.com/repos/astefanutti/decktape/releases/417583405/assets{?name,label}",
+  "html_url": "https://github.com/astefanutti/decktape/releases/tag/v3.17.0",
+  "id": 417583405,
   "author": {
     "login": "astefanutti",
     "id": 366207,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAhmZQM4Sjft3",
-  "tag_name": "v3.16.1",
+  "node_id": "RE_kwDOAhmZQM4Y49Et",
+  "tag_name": "v3.17.0",
   "target_commitish": "master",
-  "name": "v3.16.1",
+  "name": "v3.17.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-04-20T15:58:28Z",
-  "updated_at": "2026-04-20T16:42:25Z",
-  "published_at": "2026-04-20T16:42:25Z",
+  "created_at": "2026-10-19T16:18:47Z",
+  "updated_at": "2026-10-19T17:57:22Z",
+  "published_at": "2026-10-19T17:57:22Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/astefanutti/decktape/tarball/v3.16.1",
-  "zipball_url": "https://api.github.com/repos/astefanutti/decktape/zipball/v3.16.1",
-  "body": "## What's Changed\r\n\r\n* Set videos current time for deterministic rendering by @astefanutti in https://github.com/astefanutti/decktape/pull/402\r\n* Upgrade Chromium to version 147.0.7727.101-r0 by @astefanutti in https://github.com/astefanutti/decktape/pull/405\r\n\r\n**Full Changelog**: https://github.com/astefanutti/decktape/compare/v3.16.0...v3.16.1",
-  "mentions_count": 1
+  "tarball_url": "https://api.github.com/repos/astefanutti/decktape/tarball/v3.17.0",
+  "zipball_url": "https://api.github.com/repos/astefanutti/decktape/zipball/v3.17.0",
+  "body": "## What's Changed\r\n* npm bin no longer exists by @jpmens in https://github.com/astefanutti/decktape/pull/414\r\n* correct small typo by @jpmens in https://github.com/astefanutti/decktape/pull/413\r\n* Use a local cross-origin iframe fixture for visual tests by @astefanutti in https://github.com/astefanutti/decktape/pull/416\r\n* Fix remark PDF clipping caused by CSS page sizing by @astefanutti in https://github.com/astefanutti/decktape/pull/415\r\n* Use Puppeteer-managed Chrome in a slim Debian image by @astefanutti in https://github.com/astefanutti/decktape/pull/417\r\n* Limit Node Docker updates to minor and patch releases by @astefanutti in https://github.com/astefanutti/decktape/pull/421\r\n* Support exporting into volumes mounted with an arbitrary UID by @astefanutti in https://github.com/astefanutti/decktape/pull/422\r\n* Clarify Podman UID mapping and test an unregistered UID by @astefanutti in https://github.com/astefanutti/decktape/pull/423\r\n* Fail fast when the output directory is not writable by @astefanutti in https://github.com/astefanutti/decktape/pull/424\r\n* Wait for the web fonts and the video frames before printing by @astefanutti in https://github.com/astefanutti/decktape/pull/425\r\n* Extract filesystem helpers into libs/files.js by @astefanutti in https://github.com/astefanutti/decktape/pull/426\r\n* Document the SELinux relabelling of the mounted volumes by @astefanutti in https://github.com/astefanutti/decktape/pull/427\r\n* chore(deps): bump @xmldom/xmldom from 0.8.12 to 0.8.13 by @dependabot[bot] in https://github.com/astefanutti/decktape/pull/406\r\n\r\n## New Contributors\r\n* @jpmens made their first contribution in https://github.com/astefanutti/decktape/pull/414\r\n\r\n**Full Changelog**: https://github.com/astefanutti/decktape/compare/v3.16.1...v3.17.0",
+  "mentions_count": 3
 }
