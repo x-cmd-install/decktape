@@ -14,13 +14,13 @@ x install decktape
 
 ## Code insight
 
-Total: **162,626** lines of code across **41** files in the top 5 languages.
+Total: **162,608** lines of code across **41** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Css | 157,501 | 284 | 44,369 | 1 |
 | JavaScript | 2,179 | 360 | 418 | 24 |
-| Json | 1,103 | 0 | 0 | 3 |
+| Json | 1,085 | 0 | 0 | 3 |
 | Html | 698 | 7 | 6 | 5 |
 | TypeScript | 522 | 46 | 80 | 8 |
 
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.17.0` (2026-10-19)
-- **Last commit**: 2026-10-19
+- **Last commit**: 2026-10-21
 
 ## Popularity
 
@@ -50,18 +50,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 37 · **Merged PRs**: 129 · **Open PRs**: 10 · **Closed issues**: 205 · **Open issues**: 38 · **Commits**: 589
+- **Releases**: 37 · **Merged PRs**: 131 · **Open PRs**: 7 · **Closed issues**: 205 · **Open issues**: 38 · **Commits**: 591
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 1 | 10 | 2 | 0 | 0 | 11 |
-| last60d | 2026-08-22 | 1 | 10 | 2 | 0 | 0 | 11 |
-| 90d | 2026-07-23 | 1 | 10 | 2 | 0 | 0 | 11 |
-| last180d | 2026-04-24 | 1 | 12 | 6 | 0 | 1 | 13 |
-| 360d | 2025-10-26 | 3 | 22 | 7 | 3 | 1 | 32 |
-| last720d | 2024-10-31 | 4 | 39 | 8 | 8 | 9 | 54 |
+| 30d | 2026-09-22 | 1 | 12 | 2 | 0 | 0 | 13 |
+| last60d | 2026-08-23 | 1 | 12 | 2 | 0 | 0 | 13 |
+| 90d | 2026-07-24 | 1 | 12 | 2 | 0 | 0 | 13 |
+| last180d | 2026-04-25 | 1 | 14 | 3 | 0 | 1 | 15 |
+| 360d | 2025-10-27 | 3 | 24 | 4 | 3 | 1 | 34 |
+| last720d | 2024-11-01 | 4 | 41 | 5 | 8 | 9 | 56 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for decktape lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T04:43:31Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T04:43:48Z._
