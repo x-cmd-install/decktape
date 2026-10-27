@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,435 · **Forks**: 195 · **Open issues**: 244 · **Contributors**: 34
+- **Stars**: 2,435 · **Forks**: 195 · **Open issues**: 243 · **Contributors**: 34
 
 ## Totals (cumulative)
 
-- **Releases**: 37 · **Merged PRs**: 131 · **Open PRs**: 10 · **Closed issues**: 206 · **Open issues**: 38 · **Commits**: 591
+- **Releases**: 37 · **Merged PRs**: 131 · **Open PRs**: 10 · **Closed issues**: 205 · **Open issues**: 38 · **Commits**: 591
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 1 | 12 | 5 | 1 | 0 | 13 |
-| last60d | 2026-08-27 | 1 | 12 | 5 | 1 | 0 | 13 |
-| 90d | 2026-07-28 | 1 | 12 | 5 | 1 | 0 | 13 |
-| last180d | 2026-04-29 | 1 | 14 | 6 | 1 | 1 | 15 |
-| 360d | 2025-10-31 | 3 | 24 | 7 | 4 | 1 | 34 |
-| last720d | 2024-11-05 | 4 | 41 | 8 | 9 | 9 | 56 |
+| 30d | 2026-09-27 | 1 | 12 | 5 | 0 | 0 | 13 |
+| last60d | 2026-08-28 | 1 | 12 | 5 | 0 | 0 | 13 |
+| 90d | 2026-07-29 | 1 | 12 | 5 | 0 | 0 | 13 |
+| last180d | 2026-04-30 | 1 | 14 | 6 | 0 | 1 | 15 |
+| 360d | 2025-11-01 | 3 | 24 | 7 | 3 | 1 | 34 |
+| last720d | 2024-11-06 | 4 | 41 | 8 | 8 | 9 | 56 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for decktape lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T04:41:45Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:02:22Z._
