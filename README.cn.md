@@ -30,9 +30,9 @@ x install decktape
 
 评分最低的几项:
 
-- **Code-Review** (1/10) — Found 3/24 approved changesets -- score normalized to 1
+- **Code-Review** (0/10) — Found 2/24 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
 
 ## 源代码
 
@@ -46,7 +46,7 @@ x install decktape
 
 ## 流行度
 
-- **Star**: 2,435 · **Fork**: 195 · **开放 issue**: 243 · **贡献者**: 34
+- **Star**: 2,436 · **Fork**: 195 · **开放 issue**: 243 · **贡献者**: 34
 
 ## 累计统计
 
@@ -56,12 +56,12 @@ x install decktape
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 1 | 12 | 5 | 0 | 0 | 13 |
-| last60d | 2026-08-28 | 1 | 12 | 5 | 0 | 0 | 13 |
-| 90d | 2026-07-29 | 1 | 12 | 5 | 0 | 0 | 13 |
-| last180d | 2026-04-30 | 1 | 14 | 6 | 0 | 1 | 15 |
-| 360d | 2025-11-01 | 3 | 24 | 7 | 3 | 1 | 34 |
-| last720d | 2024-11-06 | 4 | 41 | 8 | 8 | 9 | 56 |
+| 30d | 2026-09-28 | 1 | 12 | 5 | 0 | 0 | 13 |
+| last60d | 2026-08-29 | 1 | 12 | 5 | 0 | 0 | 13 |
+| 90d | 2026-07-30 | 1 | 12 | 5 | 0 | 0 | 13 |
+| last180d | 2026-05-01 | 1 | 14 | 6 | 0 | 1 | 15 |
+| 360d | 2025-11-02 | 3 | 24 | 7 | 3 | 1 | 34 |
+| last720d | 2024-11-07 | 4 | 41 | 8 | 8 | 9 | 56 |
 
 ## 改进这些数据
 
@@ -72,4 +72,4 @@ decktape 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261027.yml` · 2026-10-27T05:02:23Z._
+_数据快照: `data/card/261028.yml` · 2026-10-28T05:32:09Z._
