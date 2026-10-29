@@ -3,7 +3,7 @@
   visiblename: decktape
   version: 3.16.1
   origversion: null
-  status: unique
+  status: outdated
   summary: High-quality PDF exporter for HTML presentation frameworks
   maintainers:
     - nixpkgs.xe7au@passmail.net
@@ -12,7 +12,7 @@
 - repo: nix_unstable
   srcname: decktape
   visiblename: decktape
-  version: 3.16.1
+  version: 3.17.0
   origversion: null
   status: unique
   summary: High-quality PDF exporter for HTML presentation frameworks
