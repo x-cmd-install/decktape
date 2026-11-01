@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 1 | 12 | 6 | 0 | 0 | 13 |
-| last60d | 2026-09-01 | 1 | 12 | 6 | 0 | 0 | 13 |
-| 90d | 2026-08-02 | 1 | 12 | 6 | 0 | 0 | 13 |
-| last180d | 2026-05-04 | 1 | 14 | 7 | 0 | 1 | 15 |
-| 360d | 2025-11-05 | 3 | 24 | 8 | 3 | 1 | 34 |
-| last720d | 2024-11-10 | 4 | 41 | 9 | 8 | 9 | 56 |
+| 30d | 2026-10-02 | 1 | 12 | 6 | 0 | 0 | 13 |
+| last60d | 2026-09-02 | 1 | 12 | 6 | 0 | 0 | 13 |
+| 90d | 2026-08-03 | 1 | 12 | 6 | 0 | 0 | 13 |
+| last180d | 2026-05-05 | 1 | 14 | 7 | 0 | 1 | 15 |
+| 360d | 2025-11-06 | 3 | 24 | 8 | 3 | 1 | 33 |
+| last720d | 2024-11-11 | 4 | 41 | 9 | 8 | 9 | 56 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for decktape lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T05:40:21Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T05:57:02Z._
