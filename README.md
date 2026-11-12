@@ -24,6 +24,16 @@ Total: **162,967** lines of code across **41** files in the top 5 languages.
 | TypeScript | 854 | 65 | 123 | 8 |
 | Html | 698 | 7 | 6 | 5 |
 
+## OpenSSF Scorecard
+
+Overall score: **4.5 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (1/10) — Found 3/24 approved changesets -- score normalized to 1
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+
 ## Source
 
 - **Upstream**: <https://github.com/astefanutti/decktape>
@@ -46,12 +56,12 @@ Total: **162,967** lines of code across **41** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 1 | 11 | 5 | 0 | 0 | 12 |
-| last60d | 2026-09-12 | 1 | 13 | 5 | 0 | 0 | 14 |
-| 90d | 2026-08-13 | 1 | 13 | 5 | 0 | 0 | 14 |
-| last180d | 2026-05-15 | 1 | 15 | 5 | 0 | 1 | 16 |
-| 360d | 2025-11-16 | 3 | 24 | 7 | 3 | 1 | 33 |
-| last720d | 2024-11-21 | 4 | 42 | 8 | 8 | 7 | 57 |
+| 30d | 2026-10-13 | 1 | 11 | 5 | 0 | 0 | 12 |
+| last60d | 2026-09-13 | 1 | 13 | 5 | 0 | 0 | 14 |
+| 90d | 2026-08-14 | 1 | 13 | 5 | 0 | 0 | 14 |
+| last180d | 2026-05-16 | 1 | 15 | 5 | 0 | 1 | 16 |
+| 360d | 2025-11-17 | 3 | 24 | 7 | 3 | 1 | 33 |
+| last720d | 2024-11-22 | 4 | 42 | 8 | 8 | 7 | 57 |
 
 ## Improve this data
 
@@ -62,4 +72,4 @@ Install metadata for decktape lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T06:11:01Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T07:13:18Z._
