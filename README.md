@@ -30,7 +30,7 @@ Overall score: **4.5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 3/24 approved changesets -- score normalized to 1
+- **Code-Review** (0/10) — Found 2/24 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,441 · **Forks**: 197 · **Open issues**: 243 · **Contributors**: 35
+- **Stars**: 2,441 · **Forks**: 195 · **Open issues**: 243 · **Contributors**: 34
 
 ## Totals (cumulative)
 
-- **Releases**: 37 · **Merged PRs**: 132 · **Open PRs**: 10 · **Closed issues**: 205 · **Open issues**: 38 · **Commits**: 592
+- **Releases**: 37 · **Merged PRs**: 131 · **Open PRs**: 10 · **Closed issues**: 205 · **Open issues**: 38 · **Commits**: 592
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 1 | 3 | 0 | 0 | 1 |
-| last60d | 2026-09-24 | 1 | 13 | 5 | 0 | 0 | 14 |
-| 90d | 2026-08-25 | 1 | 13 | 5 | 0 | 0 | 14 |
-| last180d | 2026-05-27 | 1 | 15 | 5 | 0 | 1 | 16 |
-| 360d | 2025-11-28 | 3 | 24 | 7 | 3 | 1 | 33 |
-| last720d | 2024-12-03 | 4 | 42 | 7 | 8 | 7 | 57 |
+| 30d | 2026-10-25 | 0 | 0 | 3 | 0 | 0 | 0 |
+| last60d | 2026-09-25 | 1 | 12 | 5 | 0 | 0 | 13 |
+| 90d | 2026-08-26 | 1 | 12 | 5 | 0 | 0 | 13 |
+| last180d | 2026-05-28 | 1 | 14 | 5 | 0 | 1 | 15 |
+| 360d | 2025-11-29 | 3 | 23 | 7 | 3 | 1 | 32 |
+| last720d | 2024-12-04 | 4 | 41 | 7 | 8 | 7 | 57 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for decktape lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T07:42:49Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T10:19:16Z._
